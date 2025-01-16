@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yash</h1>
+<h1 align="center">Hi there, I'm Yash</h1>
 <h3 align="center">Software Engineer from Northern Virginia</h3>
 
 - 🌱 I’m currently learning **AI cloud computing services**
