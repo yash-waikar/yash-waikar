@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **AI cloud computing services**
 
-- 👨‍💻 All of my projects are available at [yashwaikar.com](yashwaikar.com)
+- 👨‍💻 checkout my personal portfolio at [yashwaikar.com](yashwaikar.com)
 
-- 💬 Ask me about **anything UI**
+- 💬 Ask me about **anything ui/ux related**
 
 - ⚡ Fun fact **I am an artist, songwriter, producer in my spare time**
 
