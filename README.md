@@ -5,8 +5,6 @@
 
 - 👨‍💻 checkout my personal portfolio at [yashwaikar.com](yashwaikar.com)
 
-- 💬 Ask me about **anything ui/ux related**
-
 - ⚡  **In my spare time you can find me songwriting and creating music**
 
 <h3 align="left">Connect with me:</h3>
