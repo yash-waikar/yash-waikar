@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Yash</h1>
 <h3 align="center">Software Engineer from Northern Virginia</h3>
 
-- 🌱 I’m currently learning **AI cloud computing services**
+- 🌱 I’m currently learning **POWER BI**
 
 - 👨‍💻 checkout my personal portfolio at [yashwaikar.com](yashwaikar.com)
 
