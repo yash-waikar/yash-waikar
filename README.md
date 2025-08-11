@@ -1,11 +1,7 @@
 <h1 align="center">Hi there, I'm Yash</h1>
 <h3 align="center">Software Engineer from Northern Virginia</h3>
 
-- 🌱 I’m currently learning **POWER BI**
 
-- 👨‍💻 checkout my personal portfolio at [yashwaikar.com](yashwaikar.com)
-
-- ⚡  **In my spare time you can find me songwriting and creating music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
